@@ -1,0 +1,5 @@
+{
+    "JWT_SECRECT":"My Secrect",
+    "COOKIEEXPIRETIME":7,
+    "JWTEXPIRETIME":"7d"
+}
